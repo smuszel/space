@@ -1,0 +1,106 @@
+```
+[
+    {
+        "type": "1t1",
+        "description": "One person makes a speech while the other listens with presence. The speech is done with closed eyes."
+    },
+    {
+        "type": "1t1",
+        "description": "One person makes a speech while the other listens with presence. The speaker focuses on picking one word from each sentence and putting vocal emphasis on the chosen word to channel their intention"
+    },
+    {
+        "type": "1t1",
+        "description": "One person makes a speech without body language while the other listens with presence",
+        "iteration": "Do the same speech again, but this time you can make a single gesture per sentence and the hands go back"
+    },
+    {
+        "type": "1t1",
+        "description": "One person makes a speech while the other listens with presence. The speech is done using gesticulation, sounds, emotional expressions etc, but no words",
+        "iteration": "The listener repeats everything adding the words"
+    },
+    {
+        "type": "1t1",
+        "description": "One person shares something they are happy about in their life and another thing they are concerned about",
+        "iteration": "Listener goes to reflect on what was said"
+    },
+    {
+        "type": "1t1",
+        "description": "One person tells a story. The listener names emotions and the speaker has to enact these in the speech making them exaggerated."
+    },
+    {
+        "type": "group comedy",
+        "description": "Pair of people have to act out a scene without giving any words eg. “you are late and have to get breakfast, walk the dog and get a shower”"
+    },
+    { "type": "energizer" },
+    {
+        "name": "Peer introductions",
+        "type": "introductions",
+        "description": "Find pairs, preferrably people who dont know eachother. Have them introduce to each other and ask people to listen to eachother",
+        "iteration": "In front of the whole group each person introduces the other to everyone"
+    },
+    {
+        "name": "Word relations",
+        "type": "casual",
+        "description": "go around the circle coming up with related words, be fast",
+        "iteration": "We rewind to bring these all back from memeory"
+    },
+    {
+        "name": "DOWN",
+        "type": "introductions",
+        "description": "Hey X (hey what), Hey X (hey what), Show us how to get down (na ah), Show us how to get down (okej) <D O W N thats the way to get down + dance + repeat>"
+    },
+    {
+        "type": "introductions",
+        "description": "One by one everyone in the circle says their name and makes a gesture, then everyone repeats the gesture saying welcome + name"
+    },
+    {
+        "name": "Hive mind",
+        "type": "casual",
+        "description": "Everyone walk around randomly, a word is said and everyone starts repeating"
+    },
+    {
+        "name": "Pass the clap",
+        "type": "casual",
+        "description": "In the circle, lock eyes, time the clap, pass it on"
+    },
+    {
+        "type": "improv",
+        "description": "Two people sit talking casually, whenever someone says something, a scene can be made by someone from the audience + someone they pull in it"
+    },
+    {
+        "name": "Tree",
+        "type": "improv",
+        "description": "One person in the middle of the circle takes a pose saying I am xyz and other people join until we have a 3 or other number, the rest returns, last person stays and repeats what they are, next round begins",
+        "variant": "You can add that the first person says at the end what they pick with them, leaving only single person"
+    },
+    {
+        "name": "Freeze",
+        "type": "improv",
+        "description": "Two person in the middle of the circle do a scene. At any time someone can shout freeze and take spot of one of the people kicking off someting completely brand new"
+    },
+    {
+        "name": "Props",
+        "type": "improv",
+        "description": "Two people are doing a scene, and each of them has an assistant. Whenever the speaker needs somethign in the scene, they reach out to the assistant and they procure someting for them"
+    },
+    {
+      "name": "Responses",
+      "type": "?",
+      "description": "Make a line, one person stands in front, at the head of the line, they will respond in exaggerated way to something very casual and boring the line person starts with, then they move to next person"
+    },
+    {
+      "name": "Pick up the cup",
+      "type": "energizer",
+      "description": "2 lines facing each other, in the midle of each pain there is a cup, you follow instructions like touch head or turn around until you hear pick up the cup"
+    },
+    {
+      "name": "High five",
+      "type": "introduction",
+      "description": "Stand in the circle, one person steps in the middle and share sometihng about themselves, other people who have something in common high five them"
+    },
+
+]
+
+
+
+```
