@@ -1,4 +1,3 @@
-```
 [
     {
         "type": "1t1",
@@ -31,7 +30,13 @@
         "type": "group comedy",
         "description": "Pair of people have to act out a scene without giving any words eg. “you are late and have to get breakfast, walk the dog and get a shower”"
     },
-    { "type": "energizer" },
+    { 
+        "type": "energizer", 
+        "description": "In the circle one person comes up with the word. Now rest throws in one related word to the root one, dont duplicate"
+    },
+    { 
+        "type": "energizer", 
+        "description": "In the circle, two people come to the middle and say a word on a 3, the goeal is to have the same word. You can use the guide of 2 words mentioned previously or same seed"
     {
         "name": "Peer introductions",
         "type": "introductions",
@@ -50,8 +55,18 @@
         "description": "Hey X (hey what), Hey X (hey what), Show us how to get down (na ah), Show us how to get down (okej) <D O W N thats the way to get down + dance + repeat>"
     },
     {
+        "name": "gestured intros",
         "type": "introductions",
         "description": "One by one everyone in the circle says their name and makes a gesture, then everyone repeats the gesture saying welcome + name"
+    },
+    {
+        "name": "Superpowers",
+        "type": "introductions",
+        "description": "One on one people introduce and come up with the superpower for eachother, then in circle they introduce the other person with tyeir superpower"
+    {
+        "name": "Gift for your hobby",
+        "type": "introductions",
+        "description": "One to one people introduce their hobby or what they like doing after work the other person replies by giving them an imaginary gift, rhen in the circle we share what gifts we got"
     },
     {
         "name": "Hive mind",
@@ -64,8 +79,9 @@
         "description": "In the circle, lock eyes, time the clap, pass it on"
     },
     {
+        "name": "Scenes from casual talk"
         "type": "improv",
-        "description": "Two people sit talking casually, whenever someone says something, a scene can be made by someone from the audience + someone they pull in it"
+        "description": "Two people sit talking casually, once you spot something funny take someone from the audience and make a scene from it"
     },
     {
         "name": "Tree",
@@ -85,7 +101,7 @@
     },
     {
       "name": "Responses",
-      "type": "?",
+      "type": "energizer",
       "description": "Make a line, one person stands in front, at the head of the line, they will respond in exaggerated way to something very casual and boring the line person starts with, then they move to next person"
     },
     {
@@ -100,7 +116,3 @@
     },
 
 ]
-
-
-
-```
