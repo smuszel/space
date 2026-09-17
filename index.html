@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Activities</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- Screen A: activity list -->
+    <section id="screen-list" class="screen active">
+      <header class="list-header">
+        <select id="filter-select" class="filter-select">
+          <option value="">All types</option>
+        </select>
+        <button id="clear-button" class="clear-button" disabled>Clear all</button>
+        <button id="start-button" class="start-button" disabled>Start: 0</button>
+      </header>
+      <ul id="activity-list" class="activity-list"></ul>
+    </section>
+
+    <!-- Screen B: session viewer -->
+    <section id="screen-session" class="screen">
+      <button id="close-button" class="close-button" aria-label="Back">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M19 12H5M12 19l-7-7 7-7" />
+        </svg>
+      </button>
+      <div class="session-content">
+        <div id="dots" class="dots"></div>
+        <div class="session-body">
+          <button id="prev-button" class="nav-button" aria-label="Previous">&#8249;</button>
+          <div id="session-card" class="session-card"></div>
+          <button id="next-button" class="nav-button" aria-label="Next">&#8250;</button>
+        </div>
+        <div class="session-footer">
+          <div id="session-description" class="session-description"></div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.2/Sortable.min.js" onerror="window.__sortableLoadFailed = true"></script>
+  <script src="app.js"></script>
+</body>
+</html>

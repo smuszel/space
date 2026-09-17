@@ -1,0 +1,9 @@
+# Ignore everything except the app files
+*
+
+!.gitignore
+!index.html
+!style.css
+!app.js
+!main.json
+!doc.md

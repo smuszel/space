@@ -1,85 +1,54 @@
 [
     {
+        "name": "Closed eyes speech",
         "type": "1t1",
         "description": "One person makes a speech while the other listens with presence. The speech is done with closed eyes."
     },
     {
+        "name": "Vocal emphasis speech",
         "type": "1t1",
         "description": "One person makes a speech while the other listens with presence. The speaker focuses on picking one word from each sentence and putting vocal emphasis on the chosen word to channel their intention"
     },
     {
+        "name": "Pauses emphasis speech",
+        "type": "1t1",
+        "description": "One person makes a speech while the other listens with presence. The speaker focuses on clear pauses between each sentence"
+    },
+    {
+        "name": "Story without body language",
         "type": "1t1",
         "description": "One person makes a speech without body language while the other listens with presence",
         "iteration": "Do the same speech again, but this time you can make a single gesture per sentence and the hands go back"
     },
     {
+        "name": "No words, just gesticulations story",
         "type": "1t1",
         "description": "One person makes a speech while the other listens with presence. The speech is done using gesticulation, sounds, emotional expressions etc, but no words",
         "iteration": "The listener repeats everything adding the words"
     },
     {
+        "name": "Balanced share",
         "type": "1t1",
         "description": "One person shares something they are happy about in their life and another thing they are concerned about",
         "iteration": "Listener goes to reflect on what was said"
     },
     {
+        "name": "Exaggerate the story",
         "type": "1t1",
         "description": "One person tells a story. The listener names emotions and the speaker has to enact these in the speech making them exaggerated."
     },
     {
-        "type": "group comedy",
+        "name": "Pick up the cup",
+        "type": "energizer",
+        "description": "2 lines facing each other, in the midle of each pain there is a cup, you follow instructions like touch head or turn around until you hear pick up the cup"
+    },
+    {
+        "name": "No words scene",
+        "type": "improv",
         "description": "Pair of people have to act out a scene without giving any words eg. “you are late and have to get breakfast, walk the dog and get a shower”"
     },
-    { 
-        "type": "energizer", 
-        "description": "In the circle one person comes up with the word. Now rest throws in one related word to the root one, dont duplicate"
-    },
-    { 
-        "type": "energizer", 
-        "description": "In the circle, two people come to the middle and say a word on a 3, the goeal is to have the same word. You can use the guide of 2 words mentioned previously or same seed"
     {
-        "name": "Peer introductions",
-        "type": "introductions",
-        "description": "Find pairs, preferrably people who dont know eachother. Have them introduce to each other and ask people to listen to eachother",
-        "iteration": "In front of the whole group each person introduces the other to everyone"
-    },
-    {
-        "name": "Word relations",
-        "type": "casual",
-        "description": "go around the circle coming up with related words, be fast",
-        "iteration": "We rewind to bring these all back from memeory"
-    },
-    {
-        "name": "DOWN",
-        "type": "introductions",
-        "description": "Hey X (hey what), Hey X (hey what), Show us how to get down (na ah), Show us how to get down (okej) <D O W N thats the way to get down + dance + repeat>"
-    },
-    {
-        "name": "gestured intros",
-        "type": "introductions",
-        "description": "One by one everyone in the circle says their name and makes a gesture, then everyone repeats the gesture saying welcome + name"
-    },
-    {
-        "name": "Superpowers",
-        "type": "introductions",
-        "description": "One on one people introduce and come up with the superpower for eachother, then in circle they introduce the other person with tyeir superpower"
-    {
-        "name": "Gift for your hobby",
-        "type": "introductions",
-        "description": "One to one people introduce their hobby or what they like doing after work the other person replies by giving them an imaginary gift, rhen in the circle we share what gifts we got"
-    },
-    {
-        "name": "Hive mind",
-        "type": "casual",
-        "description": "Everyone walk around randomly, a word is said and everyone starts repeating"
-    },
-    {
-        "name": "Pass the clap",
-        "type": "casual",
-        "description": "In the circle, lock eyes, time the clap, pass it on"
-    },
-    {
-        "name": "Scenes from casual talk"
+        "name": "Scenes from casual talk",
         "type": "improv",
         "description": "Two people sit talking casually, once you spot something funny take someone from the audience and make a scene from it"
     },
@@ -100,19 +69,65 @@
         "description": "Two people are doing a scene, and each of them has an assistant. Whenever the speaker needs somethign in the scene, they reach out to the assistant and they procure someting for them"
     },
     {
-      "name": "Responses",
-      "type": "energizer",
-      "description": "Make a line, one person stands in front, at the head of the line, they will respond in exaggerated way to something very casual and boring the line person starts with, then they move to next person"
+        "name": "High five",
+        "type": "introductions",
+        "description": "Stand in the circle, one person steps in the middle and share sometihng about themselves, other people who have something in common high five them"
     },
     {
-      "name": "Pick up the cup",
-      "type": "energizer",
-      "description": "2 lines facing each other, in the midle of each pain there is a cup, you follow instructions like touch head or turn around until you hear pick up the cup"
+        "name": "Peer introductions",
+        "type": "introductions",
+        "description": "Find pairs, preferrably people who dont know eachother. Have them introduce to each other and ask people to listen to eachother",
+        "iteration": "In front of the whole group each person introduces the other to everyone"
     },
     {
-      "name": "High five",
-      "type": "introduction",
-      "description": "Stand in the circle, one person steps in the middle and share sometihng about themselves, other people who have something in common high five them"
+        "name": "DOWN",
+        "type": "introductions",
+        "description": "Hey X (hey what), Hey X (hey what), Show us how to get down (na ah), Show us how to get down (okej) <D O W N thats the way to get down + dance + repeat>"
     },
-
+    {
+        "name": "gestured intros",
+        "type": "introductions",
+        "description": "One by one everyone in the circle says their name and makes a gesture, then everyone repeats the gesture saying welcome + name"
+    },
+    {
+        "name": "Superpowers",
+        "type": "introductions",
+        "description": "One on one people introduce and come up with the superpower for eachother, then in circle they introduce the other person with tyeir superpower"
+    },
+    {
+        "name": "Gift for your hobby",
+        "type": "introductions",
+        "description": "One to one people introduce their hobby or what they like doing after work the other person replies by giving them an imaginary gift, rhen in the circle we share what gifts we got"
+    },
+    {
+        "name": "Word relations",
+        "type": "starter",
+        "description": "go around the circle coming up with related words, be fast",
+        "iteration": "We rewind to bring these all back from memeory"
+    },
+    {
+        "name": "Hive mind",
+        "type": "starter",
+        "description": "Everyone walk around randomly, a word is said and everyone starts repeating"
+    },
+    {
+        "name": "Pass the clap",
+        "type": "starter",
+        "description": "In the circle, lock eyes, time the clap, pass it on"
+    },
+    {
+        "name": "Related words barrage",
+        "type": "starter",
+        "description": "In the circle one person comes up with the word. Now rest throws in one related word to the root one, dont duplicate"
+    },
+    {
+        "name": "Mind melt",
+        "type": "starter",
+        "description": "In the circle, two people come to the middle and say a word on a 3, the goeal is to have the same word. You can use the guide of 2 words mentioned previously or same seed"
+    },
+    {
+        "name": "Responses",
+        "type": "starter",
+        "description": "Make a line, one person stands in front, at the head of the line, they will respond in exaggerated way to something very casual and boring the line person starts with, then they move to next person"
+    }
 ]
