@@ -38,6 +38,11 @@
         "description": "One person tells a story. The listener names emotions and the speaker has to enact these in the speech making them exaggerated."
     },
     {
+        "name": "Word relations",
+        "type": "1t1",
+        "description": "One person says 3 related words, last one becomes the target for the other person."
+    },
+    {
         "name": "Pick up the cup",
         "type": "energizer",
         "description": "2 lines facing each other, in the midle of each pain there is a cup, you follow instructions like touch head or turn around until you hear pick up the cup"
@@ -85,7 +90,7 @@
         "description": "Hey X (hey what), Hey X (hey what), Show us how to get down (na ah), Show us how to get down (okej) <D O W N thats the way to get down + dance + repeat>"
     },
     {
-        "name": "gestured intros",
+        "name": "Gestured intros",
         "type": "introductions",
         "description": "One by one everyone in the circle says their name and makes a gesture, then everyone repeats the gesture saying welcome + name"
     },
@@ -116,9 +121,19 @@
         "description": "In the circle, lock eyes, time the clap, pass it on"
     },
     {
+        "name": "Woosh",
+        "type": "starter",
+        "description": "Pass the whoosh to the right, boink to reverse, pow to pass accross"
+    },
+    {
         "name": "Related words barrage",
         "type": "starter",
         "description": "In the circle one person comes up with the word. Now rest throws in one related word to the root one, dont duplicate"
+    },
+    {
+        "name": "Pointers loop",
+        "type": "starter",
+        "description": "In the circle, everyone raises their hand, points at someone who has their hand up, we assemble a pattern that loops"
     },
     {
         "name": "Mind melt",
@@ -129,5 +144,20 @@
         "name": "Responses",
         "type": "starter",
         "description": "Make a line, one person stands in front, at the head of the line, they will respond in exaggerated way to something very casual and boring the line person starts with, then they move to next person"
+    },
+    {
+        "name": "Backline story",
+        "type": "starter",
+        "description": "One by one people go into chronological line adding on their one sentence to the story."
+    },
+    {
+        "name": "On word at a time story",
+        "type": "starter",
+        "description": "One by one people say single word that creates a story. Variants can be with letter of complaint, breakup letter."
+    },
+    {
+        "name": "You look like potato",
+        "type": "starter",
+        "description": "One person makes a pose, other comment on what it actually is."
     }
 ]
