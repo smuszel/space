@@ -74,6 +74,16 @@
         "description": "Two people are doing a scene, and each of them has an assistant. Whenever the speaker needs somethign in the scene, they reach out to the assistant and they procure someting for them"
     },
     {
+        "name": "One word expert",
+        "type": "improv",
+        "description": "A few people stand shoulder to shoulder to speak as one expert on given topic (mundane, fruit, science, controvertial). They say words one by one and facilitator throws questions at them."
+    },
+    {
+        "name": "One word pairing",
+        "type": "improv",
+        "description": "Warmup for one word games. Pair up and describe together objects around the room using one word at a time"
+    },
+    {
         "name": "High five",
         "type": "introductions",
         "description": "Stand in the circle, one person steps in the middle and share sometihng about themselves, other people who have something in common high five them"
@@ -126,6 +136,11 @@
         "description": "Pass the whoosh to the right, boink to reverse, pow to pass accross"
     },
     {
+        "name": "Blue ball, red ball",
+        "type": "starter",
+        "description": "Pass the blue ball, then red one, then green one and so on. It works in the circle with parallel balls flying around"
+    },
+    {
         "name": "Related words barrage",
         "type": "starter",
         "description": "In the circle one person comes up with the word. Now rest throws in one related word to the root one, dont duplicate"
@@ -151,13 +166,23 @@
         "description": "One by one people go into chronological line adding on their one sentence to the story."
     },
     {
-        "name": "On word at a time story",
+        "name": "One word at a time story",
         "type": "starter",
         "description": "One by one people say single word that creates a story. Variants can be with letter of complaint, breakup letter."
+    },
+    {
+        "name": "Tadada",
+        "type": "starter",
+        "description": "With rhythm, we go around the circle, person (A) says a random word, then next (B) says next one related and we say previous (A) + next (B) + tadada. Then B becomes start for the next round"
     },
     {
         "name": "You look like potato",
         "type": "starter",
         "description": "One person makes a pose, other comment on what it actually is."
-    }
+    },
+    {
+        "name": "Catch the sound",
+        "type": "starter",
+        "description": "In circle, one person makes a sound to pass, the receiver repeats it and throws new one"
+    },
 ]
